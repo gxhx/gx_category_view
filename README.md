@@ -15,8 +15,7 @@ and the Flutter guide for
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+已发布至[Pub](https://pub.flutter-io.cn/packages/gx_category_view)
 
 ## Usage
 
