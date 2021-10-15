@@ -1,8 +1,7 @@
 name: gx_category_view
 description: A Flutter categoryView .Writted with pure dart, supported both iOS and Android.
 version: 0.0.1
-homepage:
-
+homepage: https://github.com/gxhx/gx_category_view
 environment:
   sdk: ">=2.12.0 <3.0.0"
   flutter: ">=1.17.0"
